@@ -116,3 +116,13 @@ body{
 	font-size: 50px;
 	color: white;
 }
+#git {
+    font-size: 60px;
+	padding: 0 20px;
+	display: flex;
+	align-items: flex-end;
+    float: right;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
